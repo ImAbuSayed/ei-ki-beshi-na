@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ei-ki-beshi-na/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Ei Ki Beshi Na](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ei-ki-beshi-na/) |
+| **Get License** | [Get a Licensing Quote for Ei Ki Beshi Na](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ei-ki-beshi-na/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> অচিন ঘোরে উড়ছে মন, তোমার চোখের ইশারায়.. চোখের ইশারায়..
+> বুকের ভেতর প্রেমের নেশা, মাতাল করা মায়ায়
+> নিঝুম রাতে ডাকলে কাছে, সব কিছু ভুলে যাই
+> তোমার ঐ ঠোঁটের ছোঁয়ায়, আমি শুধু তোমায় চাই
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
