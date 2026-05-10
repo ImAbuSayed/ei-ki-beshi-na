@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ei-ki-beshi-na/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Ei Ki Beshi Na](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ei-ki-beshi-na/) |
+| **Get License** | [Official Music Licensing for Ei Ki Beshi Na](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ei-ki-beshi-na/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `3c89053d916dede84a541e0144c9f952f74b58e09b50501a720c9e2d3afeafed` |
 | **Timestamp** | May 11, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

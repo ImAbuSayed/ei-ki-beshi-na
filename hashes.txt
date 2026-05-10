@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ei Ki Beshi Na
+
+This log tracks the cryptographic history and versioning for the song **Ei Ki Beshi Na** (ei-ki-beshi-na).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-11T02:40:12.625901 | `v1` | `3c89053d916dede84a541e0144c9f952f74b58e09b50501a720c9e2d3afeafed` | `776adf578fd2f18a39a2633992879f18e639d3257a5418e81417f0ba94a86b99` | `2026-05-11_ei-ki-beshi-na-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
